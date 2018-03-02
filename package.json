@@ -1,14 +1,20 @@
 {
   "name": "logger-iops",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Node.js Logger module abstraction to Rapid7 InsightOps via watson",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luiselizondo/logger-iops.git"
+  },
   "author": "Luis Elizondo",
   "license": "MIT",
   "dependencies": {
-    "r7insight_node": "^1.8.1"
+    "r7insight_node": "^1.8.1",
+    "winston": "^2.4.0",
+    "winston-insightops": "^1.0.0"
   }
 }
