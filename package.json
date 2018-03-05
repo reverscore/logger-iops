@@ -1,6 +1,6 @@
 {
   "name": "logger-iops",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "description": "Node.js Logger module abstraction to Rapid7 InsightOps via watson",
   "main": "index.js",
   "scripts": {
