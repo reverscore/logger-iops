@@ -15,6 +15,6 @@
   "dependencies": {
     "r7insight_node": "^1.8.1",
     "winston": "^2.4.0",
-    "winston-insightops": "^1.5.0"
+    "winston-insightops": "^1.6.0"
   }
 }
