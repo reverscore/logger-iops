@@ -1,6 +1,6 @@
 {
   "name": "logger-iops",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Node.js Logger module abstraction to Rapid7 InsightOps via watson",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,7 @@
   "dependencies": {
     "express-http-context": "^1.2.3",
     "r7insight_node": "^2.0.1",
-    "winston": "^2.4.0"
+    "winston": "^2.4.0",
+    "winston-insightops": "^1.6.0"
   }
 }
